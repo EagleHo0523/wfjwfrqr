@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eagleho0523.github.io/wfjwfrqr/iOS/GMProxyer-KF00101-signed.ipa</string>
+                    <string>https://eagleho0523.github.io/wfjwfrqr/iOS/Runner-signed.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.gmdigi.GMProxyer.gpk2demo02</string>
+                <string>com.gmd.gpkAuth.GMProxyer</string>
                 <key>bundle-version</key>
                 <string>1.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>GMProxyer-KF00101</string>
+                <string>Runner</string>
             </dict>
         </dict>
     </array>
